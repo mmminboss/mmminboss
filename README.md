@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕 👋
 
 <!--
 **mmminboss/mmminboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mmminboss github&fontSize=90" />
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mmminboss)](https://solved.ac/mmminboss)<br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmminboss)](https://github.com/anuraghazra/github-readme-stats)
+<div align= "center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=mmminboss%20github&animation=fadeIn&fontColor=000000&fontSize=70" />
+  <br>
+  놀고 싶어요...
+  그래도 공부해야지...
 </div>
+
+## 열심히 공부해보자 👯
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
