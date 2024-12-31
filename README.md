@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mmminboss)](https://solved.ac/mmminboss)<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mmminboss github&fontSize=90" />
+<div align=center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mmminboss)](https://solved.ac/mmminboss)<br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmminboss)](https://github.com/anuraghazra/github-readme-stats)
+</div>
