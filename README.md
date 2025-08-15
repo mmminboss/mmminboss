@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <div align= "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=mmminboss%20github&animation=fadeIn&fontColor=000000&fontSize=70" />
   <br>
-  놀고 싶어요...
-  그래도 공부해야지...
+  화이팅!!!!!!
 </div>
 
 ## 열심히 공부해보자 👯
